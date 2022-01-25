@@ -35,7 +35,7 @@
         "symbol": "rMC",
         "decimals": 18,
         "chainId": 1313161555,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xADb5BDd6f24e0AF7896ae2825B98dcaA1109B82f/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/jirosaito/tokens/main/assets/0xADb5BDd6f24e0AF7896ae2825B98dcaA1109B82f/logo.png?token=GHSAT0AAAAAABQEQGQSFCAKBWEMWGI4DFY2YPPRV7A"
       },
       {
         "name": "Dai Stablecoin",
